@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Payhemfoh
+- 👋 Hi, I’m @Yafumin Foh
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Web development
 <!--- 💞️ I’m looking to collaborate on ...
