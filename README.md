@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yafumin Foh
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning on image processing and machine leanring
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
